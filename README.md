@@ -2,7 +2,7 @@
 
 I am an [MSc Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/) student at Imperial College London. I completed my undergraduate studies at Pomona College in Claremont, California, earning a Bachelor of Arts in Mathematics (Statistics) and Spanish. I work mainly on data analysis and visualization. Feel free to explore this page to see source code for:
 - my coursework
-- my [website](https://egkegk.github.io/)
+- my [website](https://emrys-king.github.io/)
 - other projects!
   
 You can see some of my past experience on my [Linkedin](https://www.linkedin.com/in/emrys-king/).
