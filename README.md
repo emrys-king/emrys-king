@@ -1,11 +1,10 @@
 ## Hello! My name is Emrys and I use he/they pronouns.
 
-I am an [MSc Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/) student at Imperial College London. I completed my undergraduate studies at Pomona College in Claremont, California, earning a Bachelor of Arts in Mathematics (Statistics) and Spanish. I work mainly on data analysis and visualization. Feel free to explore this page to see source code for:
-- my coursework
-- my [website](https://emrys-king.github.io/)
-- other projects!
-  
-You can see some of my past experience on my [Linkedin](https://www.linkedin.com/in/emrys-king/).
+I am a predoctoral researcher in the [Data and Democracy Lab](https://data-democracy.org) at the University of Chicago. 
+
+Previously, I completed my [MSc in Statistics](https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/) at Imperial College London and my undergraduate studies at Pomona College in Claremont, California, earning a Bachelor of Arts in Mathematics (Statistics) and Spanish. 
+
+Feel free to check out my [website](https://emrys-king.github.io) for more info!
 
 <!--
 **egkegk/egkegk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
